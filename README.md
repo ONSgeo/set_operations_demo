@@ -7,7 +7,9 @@ For this you need python (version 3.8<) as well as the following packages import
 The example shows you how to:
 
 •	Set a collection of values belonging to groups.
+
 •	Return a list of the sets based specific operations (Union, intersection, difference, and symmetric difference)
+
 •	Apply these set operations in a spatial context. 
 
 Set operations are very useful in geospatial analysis and having confidence using them will save both time and googling!

@@ -2,7 +2,7 @@
 
 These operations will allow you to quickly logically separate data based on conditions or attributes from a set or collections of datasets.
 
-For this you need python (version 3.8 or greater) as well as the following packages imported: matplotlib.pyplot and geopandas.
+For this you need python (version 3.8<) as well as the following packages imported: matplotlib.pyplot and geopandas.
 
 The example shows you how to:
 

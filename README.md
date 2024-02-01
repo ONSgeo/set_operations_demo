@@ -1,6 +1,4 @@
-Submitted by DGO Data Analysts apprentices, Ed Cuss and Lucy Astley-Jones, who have been spending the last 3 months in the geospatial team.
-
-HOW TO… use Union, intersection, difference, and symmetric difference set of operations in python!
+## HOW TO… use Union, intersection, difference, and symmetric difference set of operations in python!
 
 These operations will allow you to quickly logically separate data based on conditions or attributes from a set or collections of datasets.
 
@@ -13,3 +11,5 @@ The example shows you how to:
 •	Apply these set operations in a spatial context. 
 
 Set operations are very useful in geospatial analysis and having confidence using them will save both time and googling!
+
+Submitted by DGO Data Analysts apprentices, Ed Cuss and Lucy Astley-Jones, who have been spending the last 3 months in the geospatial team.

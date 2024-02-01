@@ -1,4 +1,4 @@
-## HOW TO… use Union, intersection, difference, and symmetric difference set of operations in python!
+## HOW TO… use union, intersection, difference, and symmetric difference set of operations in python!
 
 These operations will allow you to quickly logically separate data based on conditions or attributes from a set or collections of datasets.
 
